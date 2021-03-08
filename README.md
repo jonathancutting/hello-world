@@ -1,3 +1,3 @@
 # hello-world
-My kinda-first GitHub repository.\n
+My kinda-first GitHub repository.  
 Edited!
